@@ -1,0 +1,29 @@
+{
+  "name": "analytics-system",
+  "version": "1.0.0",
+  "description": "node project for analitics system",
+  "main": "index.js",
+  "scripts": {
+    "test": "analitics_system"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karabink/-patterns_lab2.git"
+  },
+  "keywords": [
+    "analitics_system"
+  ],
+  "author": "Karabin Kate",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karabink/-patterns_lab2/issues"
+  },
+  "homepage": "https://github.com/karabink/-patterns_lab2#readme",
+  "dependencies": {
+    "@babel/cli": "^7.11.6",
+    "@babel/core": "^7.11.6",
+    "@babel/node": "^7.10.5",
+    "@babel/preset-env": "^7.11.5",
+    "nodemon": "^2.0.4"
+  }
+}
